@@ -1,0 +1,15 @@
+D:\Games\дорого багато\вижл\Football 2201681097 OOP hw\bin\Debug\net6.0\Football 2201681097 OOP hw.exe
+D:\Games\дорого багато\вижл\Football 2201681097 OOP hw\bin\Debug\net6.0\Football 2201681097 OOP hw.deps.json
+D:\Games\дорого багато\вижл\Football 2201681097 OOP hw\bin\Debug\net6.0\Football 2201681097 OOP hw.runtimeconfig.json
+D:\Games\дорого багато\вижл\Football 2201681097 OOP hw\bin\Debug\net6.0\Football 2201681097 OOP hw.dll
+D:\Games\дорого багато\вижл\Football 2201681097 OOP hw\bin\Debug\net6.0\Football 2201681097 OOP hw.pdb
+D:\Games\дорого багато\вижл\Football 2201681097 OOP hw\obj\Debug\net6.0\Football 2201681097 OOP hw.csproj.AssemblyReference.cache
+D:\Games\дорого багато\вижл\Football 2201681097 OOP hw\obj\Debug\net6.0\Football 2201681097 OOP hw.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games\дорого багато\вижл\Football 2201681097 OOP hw\obj\Debug\net6.0\Football 2201681097 OOP hw.AssemblyInfoInputs.cache
+D:\Games\дорого багато\вижл\Football 2201681097 OOP hw\obj\Debug\net6.0\Football 2201681097 OOP hw.AssemblyInfo.cs
+D:\Games\дорого багато\вижл\Football 2201681097 OOP hw\obj\Debug\net6.0\Football 2201681097 OOP hw.csproj.CoreCompileInputs.cache
+D:\Games\дорого багато\вижл\Football 2201681097 OOP hw\obj\Debug\net6.0\Football 2201681097 OOP hw.dll
+D:\Games\дорого багато\вижл\Football 2201681097 OOP hw\obj\Debug\net6.0\refint\Football 2201681097 OOP hw.dll
+D:\Games\дорого багато\вижл\Football 2201681097 OOP hw\obj\Debug\net6.0\Football 2201681097 OOP hw.pdb
+D:\Games\дорого багато\вижл\Football 2201681097 OOP hw\obj\Debug\net6.0\Football 2201681097 OOP hw.genruntimeconfig.cache
+D:\Games\дорого багато\вижл\Football 2201681097 OOP hw\obj\Debug\net6.0\ref\Football 2201681097 OOP hw.dll
